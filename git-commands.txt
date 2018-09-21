@@ -1,0 +1,33 @@
+1) git config --global user.name "IshaniJain"
+    configure the author name
+2) git config --global user.email "ishanijain27@gmail.com"
+    configure the author email address
+3) git init
+    to initialise the git 
+4) git clone <path-to-repository>
+    create a working copy of a local repository
+5) git add <file-name>
+    add one file to index
+6) git add *
+    add one or more files to index
+7) git commit -m "commit message"
+    commit changes to the file
+8) git commit -am "commit message"
+    commit files added with git add
+9) git push origin master
+    send changes to the master branch of remote repository
+10) git status
+    list the changes in the files
+11) git checkout <branch-name>
+    switch from one branch to another
+12) git branch
+    list all the branches in the repo
+13) git pull
+    fetch and merge changes in the remote repository
+14) git log
+    shows the complete commit ID and the author's information
+15) git merge <branch-name>
+    to merge a different branch into active branch
+16) git fetch
+    download commits and files from the remote repository to local repository
+ 
